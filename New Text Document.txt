@@ -1,0 +1,14 @@
+1) Requirements -  Case Study and Understanding 
+                Doc(Word)==> Problems and solutions of the project.
+
+2) Query Tracker- QTS
+
+3) Design Docs- HLD==> Class Diagrams,Sequence Diagrams.....
+                Prototype==>screenshots of pages
+                LLD==> Pseudocode for one module.
+
+4) Test Plans - Template
+
+5) Tracability Matrix - Path to all documents.
+
+6) Project Management - Roles of members
